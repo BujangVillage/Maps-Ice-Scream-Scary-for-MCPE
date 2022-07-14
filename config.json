@@ -28,29 +28,57 @@
       "applovin_native": "unitid",
       
       "ironsource_banner": "1215fccad",
-      "ironsource_inter": "1215fccad"
+      "ironsource_inter": "1215fccad",
+
+      "fan_banner":"YOUR_PLACEMENT_ID",
+      "fan_inter":"YOUR_PLACEMENT_ID",
+      "fan_native":"YOUR_PLACEMENT_ID"
       
       
     }
   ],
   "Addon": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Ice Scream Horror Addon V2",
+        "role": "Ice Scream Rod is coming to turn you into Ice Cream!!!He kidnaps childrens and make it chubby with his special Ice Cream!!!He has a Freezing Breath to freeze you and Lot of Minirods like a army.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/ice scream/5/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/ice scream/5/Ice_Scream_Horror_Addon_by_Vince_Louis_and_Subscribe.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ice scream/5/enam.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ice scream/5/empat.png"
+    },
+    {
+        "name": "Keplerians Horror v4.1 Addon - Bug Fixes and Improvements",
+        "role": "Do you love playing Horror games? Killer Games? Then this is the right Addon for you! This addon adds Keplerians Horror Games Characters to your world, they will attempt to kill you and chase you so find a place to hide!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/ice scream/1/enam.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/ice scream/1/Keplerians_Addon_v4.1_BugFixes.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ice scream/1/empat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ice scream/1/dua.jpeg"
+    },
+    {
+        "name": "LiL's Keplerians Horror Addon v5",
+        "role": "Do you love playing Horror games? Killer Games? Then this is the right Addon for you! This addon adds Keplerians Horror Games Characters to your world, they will attempt to kill you and chase you so find a place to hide!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/ice scream/4/lima.jpeg",
+        "file_url": "https://kossandroid.com//Data Android/Minecraft/ice scream/4/LiLs_Keplerians_Horror_Addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ice scream/4/empat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ice scream/4/dua.jpeg"
     }
   ],
   "Map": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Ice Scream 4 Rebuilt",
+        "role": "You Know Ice Scream Game Right? if you dont know, well its a horror game that you need to save the kid kidnapped by a ice cream man by solving puzzles and then dont get caught! game made by keplerians, download the game on playstore!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/ice scream/3/satu.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/ice scream/3/iceScream5fanv3.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ice scream/3/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ice scream/3/dua.jpeg"
+    },
+    {
+        "name": "Ice Scream 1 In MCBE (Horror)",
+        "role": "This map is based on a popular mobile horror game named Ice scream horror neighbourhood. It was originally made by Keplerians team, and now it's been recreated in Minecraft bedrock edition as a horror map. What's the story? A boy named Charlie, was captured and frozen by an evil ice cream maker called Rod. Your main task is to rescue the boy alive without getting caught by Rod, and you will need to find the right items in order to help Charlie. How many players can the map support? It's recommended to play the map with no more than 3 players or the map could lag. I hope you like it.😊",
+        "image": "https://kossandroid.com/Data Android/Minecraft/ice scream/2/tiga.png",
+        "file_url": "https://kossandroid.com//Data Android/Minecraft/ice scream/2/IceScreamMCBE.mcworld",
+        "imgcoversatu": "https://kossandroid.com/ata Android/Minecraft/ice scream/2/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ice scream/2/dua.png"
     }
   ],
   "Texture": [
